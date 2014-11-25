@@ -5,7 +5,8 @@ Introduction
 
 This is a simple game written in C language with SDL2 library.
 
-Example
+
+
 ![alt tag](https://github.com/PiotrKono/TicTacToe-in-ANSI-C-with-SDL2/blob/master/doc/screen/Capture.PNG)
 
 License
