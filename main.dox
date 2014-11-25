@@ -1,0 +1,14 @@
+/**
+\mainpage This is TicTacToe demo application
+
+\section Introduction
+This is a simple game written in C language with SDL2 library.
+
+\section License
+The TicTacToe is licensed under the <a href="http://www.gnu.org/copyleft/lesser.html">LGPL</a>.
+
+Contact
+==================
+If you are missing functionality in TicTacToe you can either contribute to the project,
+or (<a href="mailto:piotr.konopacki@gmail.com">contact me</a>)
+*/
