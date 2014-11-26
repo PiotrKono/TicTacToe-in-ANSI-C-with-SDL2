@@ -10,7 +10,7 @@ typedef struct
 } PLAYER_TYPE;
 #endif /* PLAYER_TYPE */
 
-/* Declare palyers */
+/* Declare players */
 #ifndef PLAYERS
 PLAYER_TYPE player_X;
 PLAYER_TYPE player_O;
